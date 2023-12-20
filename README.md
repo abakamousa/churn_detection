@@ -1,11 +1,11 @@
 # About
 This project present machine learning based solution for churn identification using past data ().
 
-# Objective
+## Objective
 
 The goal here is to provide an accurate model to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant. 
 
-# Dataset 
+## Dataset 
 
 The dataset is provided by kaggle: https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c54/data
 
