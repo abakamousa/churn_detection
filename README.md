@@ -1,5 +1,5 @@
 # About
-This project present machine learning based solution for churn identification using past data ().
+This project present machine learning based solution for churn identification using past data.
 
 ## Objective
 
