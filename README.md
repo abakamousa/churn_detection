@@ -23,4 +23,6 @@ To run locally, clone the repository, go to the diretory and install the require
 ```
 pip install -r requirements.txt
 ```
+## Preliminary results
+![image](https://github.com/abakamousa/churn_detection/assets/18530355/f54d8e2f-930c-4b59-bb14-f6cbf181571a)
 
